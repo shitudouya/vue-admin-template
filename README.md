@@ -21,6 +21,4 @@
 
 （2）侧边栏图标在哪找的？
 
-图标为element-ui提供的，直接使用即可。
-
-官网[element-ui](https://element.eleme.io/#/zh-CN/component/icon)
+图标为element-ui提供的，直接使用即可。官网[element-ui](https://element.eleme.io/#/zh-CN/component/icon)
