@@ -16,8 +16,11 @@
 （1）侧边菜单栏怎么配置？
 
 定位目录`src→components→CommonAside.vue`在asideMenu中根据已有格式配置侧边栏显示的菜单信息
+
 接着在`src→router→index.js`routes中配置路由即可
 
 （2）侧边栏图标在哪找的？
 
-图标为element-ui提供的，直接使用即可，官网[element-ui](https://element.eleme.io/#/zh-CN/component/icon)
+图标为element-ui提供的，直接使用即可。
+
+官网[element-ui](https://element.eleme.io/#/zh-CN/component/icon)
